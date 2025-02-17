@@ -1,4 +1,5 @@
 # Multi-Latent-Space
+Ju-Yeon Oh*, Min-Sung Choi, So-Yoon Kim, Seong-Geon Bae. "A Study on Autoencoders Based on Multi-Latent Space", The 5th International Conference on Electrical, Computer and Energy Technologies (ICECET), 2025, 29.
 
 ## Introduction
 기존의 Autoencoder는 encoder-decoder의 구조를 통해 입력 데이터를 더 작은 차원의 latent space(이하 잠재 공간)을 압축-복원하는 작업을 거쳤다. 
